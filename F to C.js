@@ -19,7 +19,6 @@ function transformDegree(degree) {
         degreeSign = 'F'
     }
 
-
     return formula(updateDegree) + degreeSign
 
 }
